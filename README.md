@@ -1,16 +1,18 @@
 # Seminar 20375
 
-<br>
-
-## Description
+## Deep Forest: Towards An Alternative to Deep Neural Networks
 
 <br>
 
-Repository includes all the metarials for my seminar in course 20375, The Open University of Israel:
+**This repository includes all the metarials for my seminar in course 20375, The Open University of Israel:**
 
   + Relevant Articles
+  
   + Final Written Seminar
-  + Presentation (unfinished)
+  
+  + Presentation 
+  
   + List of Additional Resources
 
 <br>  
+
